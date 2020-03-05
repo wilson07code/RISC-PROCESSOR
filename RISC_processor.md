@@ -1,4 +1,4 @@
-# VLSI
+# RISC_PROCESSOR
 ------top-----
 
 module RISC_top(
